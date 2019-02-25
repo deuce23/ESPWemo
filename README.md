@@ -1,4 +1,5 @@
 # fauxmoESP
+This is to preserve the Wemo version of Fauxmo and be able to have both libraries installed at the same time.
 
 Amazon Alexa support for ESP8266 devices.
 
